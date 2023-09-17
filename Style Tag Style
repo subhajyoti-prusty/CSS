@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style Tag Style</title>
+    <style>
+        h1{
+            color: blue;
+            background-color: rgb(198, 192, 192);
+        }
+    </style>
+</head>
+<body>
+    <!-- Style Tag -->
+    <h1>hello</h1>
+    <h1>hello hello hello</h1>
+    <h1>hello hello hello hello hello</h1>
+</body>
+</html>
