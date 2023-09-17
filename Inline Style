@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline Style</title>
+</head>
+<body>
+    <!-- Inline Style -->
+    <h1 style="color: blueviolet;">This is something </h1>
+    <h2 style="color: chartreuse;">This is something else </h2>
+    <p style="width: 2%;">Idk What is going on</p>
+    <button style="color: deeppink; background-color: aquamarine;">Hello</button>
+</body>
+</html>
