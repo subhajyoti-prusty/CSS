@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Property</title>
+</head>
+<body>
+    <link rel="Stylesheet" href="ColorProperty.css">
+    <link rel="Stylesheet" href="BackgroundColorProperty.css">
+    <!--     Color property -->
+    <h1>Hi There!</h1>
+    <h2>How is everthing going ?</h2>
+    <p>This is my 1st Paragraph</p>
+    <p>This is my 2nd Paragraph</p>
+    <button>Button A</button>
+    <button>Button B</button>
+</body>
+</html>
