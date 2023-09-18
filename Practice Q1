@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PracticeQ1</title>
+    <link rel="Stylesheet" href="PracticeQ1.css">
+</head>
+<body>
+    <h2><b>Hi There!</b></h2>
+    <p>My name is Tom &amp; I am there to help you.</p>
+    <button>Need Help</button>
+</body>
+</html>
