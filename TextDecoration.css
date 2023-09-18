@@ -1,0 +1,12 @@
+h1{
+    text-decoration: red underline;
+}
+h3{
+    text-decoration: olive wavy overline;
+}
+h2{
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,7 @@
+button:active{
+    background-color: palevioletred;
+}
+p:active{
+    font-weight: bold;
+    color: green;
+}
