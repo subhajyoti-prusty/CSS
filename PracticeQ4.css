@@ -1,0 +1,10 @@
+/* Specificity */
+h1{
+    color: pink;    /*001*/
+}
+#greet{
+    color: yellow;  /*100*/ /*This will be the color of the heading tag*/
+}
+.myClass{ 
+    color: brown;   /*010*/
+}
