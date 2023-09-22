@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alpha And Opacity</title>
+    <link rel="stylesheet" href="AlphaChannelOfColor.css">
+    <link rel="stylesheet" href="Opacity.css">
+</head>
+<body>
+    <div></div>
+    <div id="Opacity">
+        <h2>
+            Heading
+        </h2>
+        <button>
+            Help me 
+        </button>
+    </div>
+</body>
+</html>
