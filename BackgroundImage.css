@@ -1,0 +1,18 @@
+div{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(60, 255, 60);
+    background-image: url("https://images.unsplash.com/photo-1694930103616-52043332f156?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80");
+}
+
+#a{
+    background-size: contain;
+}
+
+#b{
+    background-size: cover;
+}
+
+#c{
+    background-size: auto;
+}

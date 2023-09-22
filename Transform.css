@@ -1,0 +1,35 @@
+div{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(42, 146, 221);
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+#one:hover{
+    background-color: blueviolet;
+    transform: rotate(45deg);
+}
+
+#two:hover{
+    background-color: blueviolet;
+    transform: scale(1.5);
+}
+
+#three:hover{
+    background-color: blueviolet;
+    transform: scale(0.5) ;
+}
+
+#four:hover{
+    background-color: blueviolet;
+    transform: translate(20px,20px) ;
+    transform: translateX(20px) ;
+    transform: translateY(20px) ;
+}
+
+#five:hover{
+    background-color: blueviolet;
+    transform:skew(45deg) ;
+}

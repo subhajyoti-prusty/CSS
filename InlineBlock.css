@@ -1,0 +1,8 @@
+div{
+    background-color: lime;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    display: inline-block;
+}
