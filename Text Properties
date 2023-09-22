@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Properties</title>
+
+
+    <link rel="Stylesheet" href="TextAlign.css">
+    <link rel="Stylesheet" href="FontWeight.css">
+    <link rel="Stylesheet" href="TextDecoration.css">
+    <link rel="Stylesheet" href="LineHeight.css">
+    <link rel="Stylesheet" href="LetterSpacing.css">
+    <link rel="Stylesheet" href="FontFamily.css">
+
+</head>
+<body>
+    <h1>G20 New Delhi summit</h1>
+    <hr>
+    <h3>Background</h3>
+    <hr>
+    <h5><a href="google.com">Goole ME</a></h5>
+    <p>Originally, India was scheduled to host the G20 summit in 2021 and Italy in 2022. 
+        At the 2018 G20 Buenos Aires summit in Argentina, Prime Minister Narendra Modi said 
+        he had requested Italy to host the summit in 2021 and allow India to host it in 2022,
+        on the occasion of the 75th year of India's independence. Italy agreed to let India
+         host the G20 summit in 2022 in its place, owing to the momentum in bilateral ties.
+        However, after a request made by Indonesian Foreign Minister Retno Marsudi, India 
+        exchanged its presidency of the G20 with Indonesia because Indonesia would also chair 
+        the Association of Southeast Asian Nations (ASEAN) in 2023.
+    </p>
+
+    <h2>Presidency</h2>
+    <hr>
+    <p>
+        The G20 New Delhi Summit is chaired by the Indian Prime Minister, Narendra Modi.
+        India's presidency began on 1 December 2022, leading up to the summit in the third 
+        quarter of 2023. The presidency handover ceremony was held, in which the G20 Presidency 
+        gavel was transferred from Indonesian President Joko Widodo to Indian Prime Minister 
+        Modi at the close of the Bali summit. Indonesia held the presidency in 2022.
+        Indian Prime Minister Modi formally handed over the G20 presidency to Luiz Inácio Lula
+        da Silva, the President of Brazil. India will continue to hold the position until 30 
+        November 2023.
+    </p>
+
+    <h3>Preparations</h3>
+    <hr>
+    <p>
+        The Government of India budgeted Rs. 990 crore (120 million USD) for the G20 events.
+        For the security of the event, the government has deployed 130,000 security personnel, 
+        including 80,000 police officers from Delhi Police.
+        News sources CNN, Reuters and the Washington Post reported that in the lead up to the 
+        G20 meeting, the Indian authorities, including the Archaeological Survey of India embarked 
+        on a mass demolition drive against homeless shelters and slum neighborhoods across New Delhi 
+        resulting in the eviction of its marginalized residents[20][21][22] The Indian government's 
+        press agency Press Information Bureau rejected the claims, and said that they were done as 
+        per the Supreme court of India orders and not linked to the 2023 G20 New Delhi summit.
+        Restrictions in Delhi
+        In the restrictions imposed in Delhi, all schools, offices, workplaces, marketplaces, 
+        restaurants and non-food shops were ordered to close for three days. Meanwhile, traffic 
+        advisories were issued in regards with the movement on the roads,[24] e-commerce deliveries 
+        were restricted to ordering medicines and groceries under New Delhi Municipal Council (NMDC) 
+        jurisdiction and people were recommended to stay at home.
+    </p>
+
+</body>
+</html>
