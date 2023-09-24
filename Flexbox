@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox</title>
+    <link rel="stylesheet" href="Flexbox.css">
+</head>
+<body>
+    <h1>Flexbox Platform</h1>
+    <div id="Cointer1">
+        <div style="background-color: red;">red</div>
+        <div style="background-color: orange;">orange</div>
+        <div style="background-color: yellow;">yellow</div>
+        <div style="background-color: green;">green</div>
+        <div style="background-color: blue;">blue</div>
+        <div style="background-color: indigo;">indigo</div>
+        <div style="background-color: rgb(127,0,225);">violet</div>
+    </div>
+
+    <div id="Cointer2">
+        <div style="background-color: red;">red</div>
+        <div style="background-color: orange;">orange</div>
+        <div style="background-color: yellow;">yellow</div>
+        <div style="background-color: green;">green</div>
+        <div style="background-color: blue;">blue</div>
+        <div style="background-color: indigo;">indigo</div>
+        <div style="background-color: rgb(127,0,225);">violet</div>
+    </div>
+
+    <div id="Cointer3">
+        <div class="reverse" style="background-color: red;">red</div>
+        <div class="reverse" style="background-color: orange;">orange</div>
+        <div class="reverse" style="background-color: yellow;">yellow</div>
+        <div class="reverse" style="background-color: green;">green</div>
+        <div class="reverse" style="background-color: blue;">blue</div>
+        <div class="reverse" style="background-color: indigo;">indigo</div>
+        <div class="reverse" style="background-color: rgb(127,0,225);">violet</div>
+    </div>
+
+    <div id="Cointer4">
+        <div class="reverse" style="background-color: red;">red</div>
+        <div class="reverse" style="background-color: orange;">orange</div>
+        <div class="reverse" style="background-color: yellow;">yellow</div>
+        <div class="reverse" style="background-color: green;">green</div>
+        <div class="reverse" style="background-color: blue;">blue</div>
+        <div class="reverse" style="background-color: indigo;">indigo</div>
+        <div class="reverse" style="background-color: rgb(127,0,225);">violet</div>
+    </div>
+
+</body>
+</html>
