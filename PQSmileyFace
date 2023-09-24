@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smiley Face</title>
+    <link rel="stylesheet" href="PQSmileyFace.css">
+</head>
+<body>
+    <div>
+        <div id="left"></div>
+        <div id="right"></div>
+        <div id="center"></div>
+    </div>
+</body>
+</html>
