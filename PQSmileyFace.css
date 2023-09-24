@@ -1,0 +1,39 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: #ffa511;
+    border: 2px solid black;
+    border-radius: 50%;
+    /* margin: auto;
+    margin-top: 10%; */
+}
+
+#left{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 15%;
+    display: inline-block;
+    left:250px;
+}
+#right{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 15%;
+    left: 100px;
+}
+#center{
+    height: 80px;
+    width: 200px;
+    background-color: brown;
+    border-radius: 0 0 40px 40px;
+    position: absolute;
+    top: 230px;
+    left: 100px;
+}

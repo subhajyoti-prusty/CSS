@@ -1,0 +1,57 @@
+#Cointer1{
+    height: 300px;
+    width: 1200px;
+    border: 4px solid black;
+    background-color:antiquewhite;
+    margin: 10px auto;
+
+    display: flex;
+    flex-direction: column;
+
+}
+h1{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    color: white;
+    font-size: larger ;
+}
+
+#Cointer2{
+    height: 300px;
+    width: 1200px;
+    border: 4px solid black;
+    background-color:antiquewhite;
+    margin: 10px auto;
+    display: flex;
+}
+
+#Cointer3{
+    height: 300px;
+    width: 1200px;
+    border: 4px solid black;
+    background-color:antiquewhite;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+#Cointer4{
+    height: 300px;
+    width: 1200px;
+    border: 4px solid black;
+    background-color:antiquewhite;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.reverse{
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    color: white;
+    font-size: larger ;
+}
