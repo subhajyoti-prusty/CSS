@@ -1,0 +1,23 @@
+#Cointer{
+    height: 500px;
+    width: 1200px;
+    border: 4px solid black;
+    background-color:antiquewhite;
+    margin: 10px auto;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+    /* flex-wrap: wrap; */
+}
+h1{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    color: white;
+    font-size: larger ;
+}
