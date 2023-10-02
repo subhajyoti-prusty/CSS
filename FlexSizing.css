@@ -1,0 +1,26 @@
+#Cointer{
+    height: 800px;
+    width: 1200px;
+    border: 4px solid black;
+    background-color:antiquewhite;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+}
+div{
+    height: 400px;
+    width: 100px;
+    text-align: center;
+    color: white;
+}
+#blue{
+    /* flex-basis: 500px; */
+    /* flex-grow: 1; */
+    flex-shrink: 2;
+}
+#violet{
+    /* flex-basis: 40px; */
+    /* flex-grow: 2; */
+    flex-shrink: 3;
+
+}
