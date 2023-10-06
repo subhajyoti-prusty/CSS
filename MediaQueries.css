@@ -1,0 +1,24 @@
+h1{
+    background-color: bisque;
+    border: 2px solid black;
+}
+@media(Width:400px){
+    h1{
+        background-color: aqua;
+    }
+}
+@media(min-Width:399px){
+    h1{
+        background-color:blueviolet;
+    }
+}
+@media(max-Width:401px){
+    h1{
+        background-color:brown;
+    }
+}
+@media(min-Width:100px) and (max-Width:250px){
+    h1{
+        background-color: aqua;
+    }
+}
