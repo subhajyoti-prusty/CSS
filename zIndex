@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Z Index</title>
+    <link rel="stylesheet" href="zIndex.css">
+</head>
+<body>
+    <div id="one">1</div>
+    <div id="two">2</div>
+    <div id="three">3</div>
+</body>
+</html>
