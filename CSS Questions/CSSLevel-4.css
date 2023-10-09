@@ -1,0 +1,14 @@
+body{
+    color:azure;
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color:green;
+    text-align: center;
+    transition: width 2s ease-in 0.5s;
+}
+#box1:hover{
+    width: 300px;
+}
+
