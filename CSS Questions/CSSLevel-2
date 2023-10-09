@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level-2</title>
+    <link rel="stylesheet" href="CSSLevel-2.css">
+</head>
+<body>
+    <h1 id="mainTopic" >CSS Practice</h1>
+    <h3>Let's learn about selector.</h3>
+    <!-- Paragraph1 -->
+    <p class="Paragraph">There are multiple selectors in css.</p>
+    <!-- Paragraph2 -->
+    <p class="Paragraph">Some of them include class selector, id selector etc.</p>
+    <!-- Paragraph3 -->
+    <p class="Paragraph">And we can also combine these too.</p>
+    <div>
+        <h5>Did you like the practice set?</h5>
+        <input type="checkbox" id="yes" checked />
+        <label for="yes">Yes</label>
+        <br />
+        <button>Learn next!</button>
+    </div>
+</body>
+</html>
