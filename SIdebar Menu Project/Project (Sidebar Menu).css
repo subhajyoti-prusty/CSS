@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Space Mono', monospace;
+}
+
+.main_box{
+    background-image: url(Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.btn_one {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 20px;
+    line-height: 65px;
+}
+
+.sidebar_menu{
+    position: fixed;
+    left: -350px;
+    height: 100vh;
+    width: 320px;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow:0 4px 6px rgba(255, 255, 255, 0.5) ;
+    transition: all 0.4s linear;
+}
+
+.sidebar_menu .logo{
+    position: absolute;
+    width: 100%;
+    line-height: 60px;
+    box-shadow:0 0 10px rgba(255, 255, 255, 0.5) ;
+    height: 50px;
+}
+
+.sidebar_menu .logo a{
+    position: absolute;
+    left: 65px;
+    color: white;
+    direction: none;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.sidebar_menu .btn_two i{
+    color: gray;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 60px;
+    position: absolute;
+    left: 280px;
+    opacity: 0;
+    cursor: pointer;
+    transition: all 0.4s linear;
+}
+
+.sidebar_menu .menu{
+    color: white;
+    position: absolute;
+    width: 100%;
+    top: 75px;
+}
+
+.sidebar_menu .menu li{
+    margin-top: 6px;
+    padding: 15px 20px;
+}
+
+.sidebar_menu .menu i,a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.sidebar_menu .menu i{
+    padding-right: 10px;
+}
+
+.sidebar_menu .social_media{
+    color: white;
+    opacity: 0.6;
+    position: absolute;
+    left: 25%;
+    bottom: 30px;
+}
+
+.sidebar_menu .social_media i{
+    padding: 0 5 px;
+    opacity: 0.5;
+}
+
+#check{
+    display: none;
+}
+
+.sidebar_menu .menu li:hover{
+    box-shadow:0 0 10px rgba(255, 255, 255, 0.3)
+}
+
+.btn_one i:hover{
+    font-size: 34px;
+}
+
+.btn_two i:hover{
+    font-size: 30px;
+}
+
+.sidebar_menu .social_media i:hover{
+    opacity: 1.4;
+    transform: scale(1.1);
+}
+
+#check:checked ~ .sidebar_menu{
+    left: 0;
+}
+
+#check:checked ~ .btn_one i{
+    opacity: 0;
+}
+
+#check:checked ~ .sidebar_menu .btn_two i{
+    opacity: 1;
+}
